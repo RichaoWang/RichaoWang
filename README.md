@@ -4,7 +4,7 @@
 - 📫 我的邮箱：wangrichaoren@gmail.com
 
 ---
-- 之前账号因为fork某些项目的原因被封了，现转移至此 🧛‍♂️
+- 2024/4/12 之前账户(@wangrichaoren)因fork某些项目的原因被禁止登录了，现转移至此@RichaoWang 🧛‍♂️
 
 <!---
 RichaoWang/RichaoWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
