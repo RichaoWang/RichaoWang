@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @RichaoWang, You can also call me Jerry.
-- 👀 I’m interested in Software development, Research on visual algorithms, Love basketball and table tennis...
-- 🌱 I’m currently learning QtQuick, Game Cheat...     
-- 📫 How to reach me : wangrichaoren@gmail.com
+- 👋 嗨, 我是@RichaoWang, 也可以叫我Jerry
+- 👀 我对软件开发，视觉算法工程化等技术感兴趣，生活中我热爱篮球，桌球等等
+- 🌱 我当前正在学习QtQuick，游戏注入...
+- 📫 我的邮箱：wangrichaoren@gmail.com
+
+---
+- 之前账号因为fork某些项目的原因被封了，现转移至此 🧛‍♂️
 
 <!---
 RichaoWang/RichaoWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
