@@ -6,11 +6,6 @@
    > My email: wangrichaoren@gmail.com
    
 
-```
-🧛‍♂️ [2024/4/12] 之前账户(@wangrichaoren)因fork某些项目的原因被禁止登录了，现转移至此@RichaoWang 🧛‍♂️
-   [2024/4/12] The previous account (@wangrichaoren) was banned from logging in due to forking some projects, and is now transferred to @RichaoWang
-```
-
 <!---
 RichaoWang/RichaoWang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
